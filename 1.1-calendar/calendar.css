@@ -1,0 +1,169 @@
+	.arrows{
+	    color: white;
+	    text-decoration: none;
+		font-size:70px !important;	
+	}
+	
+	.month{
+		width:500px;
+		height:500px;
+		margin:10px auto;
+	}
+	
+	.month_head{
+		font-size:40px !important;
+		width:100%;
+		height:20%;
+		margin:auto;
+		color:white;
+		font-family: 'Lobster';	
+	}
+	
+	.month_grid{
+		width:100%;
+		height:70%;
+		margin: auto;
+		
+	}
+	.month_grid th{
+		background-color:lightblue;
+		font-family: 'Pirata One';
+		font-size:20px !important;
+	}
+	.month_grid td{
+		font-size:30px !important;
+		text-align: center;
+		font-family: 'Gloria Hallelujah';
+	}
+	
+	.jan{
+		background: url("http://images2.fanpop.com/images/photos/2700000/Winter-wallpapers-winter-2768437-500-375.jpg");
+		background-size: 100% 100%;
+		color:white;
+		border:dotted lightblue;
+	}
+	
+	.jan_head{
+		background-color:navy;
+	}
+	
+	.feb{
+		background: url("https://s-media-cache-ak0.pinimg.com/736x/80/a3/00/80a3007e9dcd893e698f443d00c26389.jpg");
+		background-size: 100% 100%;
+		color:white;
+		border:solid lightblue;");
+		background-size: 100% 100%;
+		color:red;
+		border:solid green;
+	}
+	.feb_head{
+		background-color:blue;
+		color:navy;
+	}
+	
+	.march{
+		background:url("https://fthmb.tqn.com/FLuhk-2DnmbjrfC17eMgJq0WUNo=/1280x960/filters:no_upscale()/about/ewallpapers-daisies-free-spring-wallpapers-585820c43df78ce2c3b488fe.jpg");
+		background-size: 100% 100%;
+		color:purple;
+		border:dashed purple;
+	}
+	
+	.march_head{
+		background-color:green;
+		color:pink;
+	}
+	.april{
+		background:url("https://lh6.googleusercontent.com/-2O6_ranzlKY/AAAAAAAAAAI/AAAAAAAAAoc/i3KUc6UbcVI/photo.jpg");
+		background-size: 100% 100%;
+		color:yellow;
+		border:double pink;
+	}
+	.april_head{
+		background-color: seagreen;
+		color:darkslategrey;
+	}
+	.may{
+		background:url("http://nebula.wsimg.com/5a9d4d3abfc072e8da84061553b6ab46?AccessKeyId=5F981BDDD5FB16C31B66&disposition=0&alloworigin=1");
+		background-size: 100% 100%;
+		color:navy;
+		border:solid salmon;
+	}
+	.may_head{
+		background-color: limegreen;
+		color:magenta;
+	}
+	
+	.june{
+		background: url("http://cdn.wallpapersafari.com/28/97/tepIRV.jpg");
+		background-size: 100% 100%;
+		color:greenyellow;
+		border:outset yellowgreen;
+	}
+	.june_head{
+		background-color:yellow;
+		color:purple;
+	}
+	.july{
+		background: url("https://images.template.net/wp-content/uploads/2015/11/02154927/Astonishing-Summer-Painting-For-You.jpg");
+		background-size: 100% 100%;
+		color:indigo;
+		border:inset aqua;
+	}
+	.july_head{
+		background-color:gold;
+		color:blue;
+	}
+	.august{
+		background: url("http://blog.allposters.com/wp-content/uploads/2015/03/grand-canal-venice-italy-boat-tour-travel-summer-scenes-photo-poster.jpg");
+		background-size: 100% 100%;
+		color:fuchsia;
+		border:dotted brown;
+	}
+	.august_head{
+		background-color:coral;
+		color:blueviolet;
+	}
+	.sept{
+		background:
+		url("https://s-media-cache-ak0.pinimg.com/originals/ed/e6/09/ede6097ddabc439e4fc3a558c8eedf55.jpg");
+		background-size: 100% 100%;
+		color:yellow;
+		border:solid yellow;
+	}
+	.sept_head{
+		background-color:red;
+		color:wheat;
+	}
+	.oct{
+		background:
+		url("http://runt-of-the-web.com/wordpress/wp-content/uploads/2014/09/colorful-fall-photos-autumn-church.jpg");
+		background-size: 100% 100%;
+		color:white;
+		border:outset darkred;
+	}
+	.oct_head{
+		background-color:orangered;
+		color:black;
+	}
+	.nov{
+		background:
+		url("https://s-media-cache-ak0.pinimg.com/736x/e7/d9/17/e7d917fc07b3ba80b5b19baa5a5ddeab.jpg");
+		background-size: 100% 100%;
+		color:cyan;
+		border:double deeppink;
+	}
+	.nov_head{
+		background-color:orange;
+		color:deeppink;
+	}
+	.dec{
+		background:
+		url("https://speckycdn-sdm.netdna-ssl.com/wp-content/uploads/2016/11/christmas-holidays-free-resources-for-designers-11.jpg");
+		background-size: 100% 100%;
+		color:green;
+		border:dotted green;
+	}
+	.dec_head{
+		background-color:cornflowerblue;
+		color:crimson;
+	}
