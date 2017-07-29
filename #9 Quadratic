@@ -1,0 +1,16 @@
+int(input("What is the value of A?"))
+int(input("What is the value of B?"))
+int(input("What is the value of C?"))
+int(input("What is the value of X?"))
+print("The following quadratic was entered as:")
+print("The value of the quadratic is " (x))
+
+'''You are interested in creating a program that will solve for the value of a quadratic. 
+A quadratic follows the format of AX2 +BX + C (A,B,C are variables) 
+Write a small python program that does the following:
+1. Ask the user to enter the value of A,B,C and X. 
+2. Your program will then calculate the value of the quadratic. 
+3. Your program should output the quadratic along with the value of the quadratic.(See sample output). Check your math! 
+4. You should test your programs for multiple combinations of positive and negative values of all variables. 
+5. Attach screenshots of at least 4 different combinations. 
+6. Upload your code to Git Hub.'''
