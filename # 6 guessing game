@@ -1,1 +1,8 @@
-
+import random
+number = random.randint(1,10)
+guesses = 0
+int(input("Guess my 1-10 number!"))
+while guesses > 4:
+    print('Take a guess')
+    guess = input()
+    guess = int(guess)
