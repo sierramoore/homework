@@ -31,7 +31,7 @@ _This program displays all the prime numbers from 2 – 100._
 Also, it states that it’s a prime number next to the number.  (Ex: 2 is a Prime number)
 **NOTE:** A prime number is a whole number greater than 1, who is only divisible by 1 and itself.
 
-### **User Input:**
+### **Min and Max Number:**
 _Given a set of numbers, this program returns the largest and smallest number in the set._
 
 This program also does the following:
