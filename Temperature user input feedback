@@ -5,5 +5,5 @@ def temp(a):
 	        print("its hot")
 	    else :
 	        print("its warm")
-	temperature = int(input("What temerature is it today?"))
+	temperature = int(input("What temperature is it today?"))
 	temp(temperature)
